@@ -4,4 +4,5 @@ In this project, I use both blind search and heuristics search to find series of
 Two algorithms I use:
 - Blind search: Breath-First Search
 - Heuristics search: A* algorithm
-You can 
+To run this application, just run main.py
+
